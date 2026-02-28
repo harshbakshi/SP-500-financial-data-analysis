@@ -62,7 +62,7 @@ This project demonstrates practical skills in **data modeling, time-series analy
 
 The data for this project.
 
-- **Dataset Link:** [S&P Stock Dataset](https://github.com/harshbakshi/SP-500-financial-data-analysis/blob/main/Raw%20Data%20S%26P%20500%20Stock%20Prices%202014-2017.csv)
+- **Dataset Link:** [S&P Stock Dataset](https://github.com/harshbakshi/SP-500-financial-data-analysis/blob/main/01-raw-data-sp500-prices-2014-2017.csv)
 
 ## Author - Harsh bakshi
 
