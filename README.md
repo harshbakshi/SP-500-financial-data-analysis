@@ -1,6 +1,6 @@
 # S&P 500 Stock Financial Data Analysis (SQL + Power BI + DAX)
 
-![](https://github.com/harshbakshi/HR_Analytics_Dashboard/blob/main/HR%20Dashboard.pdf)
+![](https://github.com/harshbakshi/SP-500-financial-data-analysis/blob/main/Dashboard%20Screenshot.png)
 
 ## 📌 Project Overview
 
@@ -62,7 +62,7 @@ This project demonstrates practical skills in **data modeling, time-series analy
 
 The data for this project.
 
-- **Dataset Link:** [HR Dataset](https://github.com/harshbakshi/HR_Analytics_Dashboard/blob/main/Human%20Resources.csv)
+- **Dataset Link:** [S&P Stock Dataset](https://github.com/harshbakshi/SP-500-financial-data-analysis/blob/main/Raw%20Data%20S%26P%20500%20Stock%20Prices%202014-2017.csv)
 
 ## Author - Harsh bakshi
 
