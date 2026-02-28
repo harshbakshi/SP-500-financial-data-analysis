@@ -1,6 +1,6 @@
 # S&P 500 Stock Financial Data Analysis (SQL + Power BI + DAX)
 
-![](https://github.com/harshbakshi/SP-500-financial-data-analysis/blob/main/07-dashboard-screenshot.png)
+![](https://github.com/harshbakshi/SP-500-financial-data-analysis/blob/main/06-dashboard-screenshot.png)
 
 ## 📌 Project Overview
 
